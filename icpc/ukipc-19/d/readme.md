@@ -14,7 +14,7 @@ You are a cloud engineer by trade, and hence a competent meteorologist. You alre
 
 The input consists of:
 - The first line contains the number of clouds you found, $n$, and the number that must be contained, $k$, respectively ($1 \leq k \leq n \leq 10^5$).
-- The next n lines each contain three real numbers $x_i$, $y_i$, $z_i$, the coordinates of the $i$th cloud relative to the centre of the dome ($0 ≤ |x_i|, |y_i|, |z_i| ≤ 10^6$). Every cloud has a non-negative $y$-coordinate.
+- The next n lines each contain three real numbers $x_i$, $y_i$, $z_i$, the coordinates of the $i$-th cloud relative to the centre of the dome ($0 ≤ |x_i|, |y_i|, |z_i| ≤ 10^6$). Every cloud has a non-negative $y$-coordinate.
 
 ### Output
 

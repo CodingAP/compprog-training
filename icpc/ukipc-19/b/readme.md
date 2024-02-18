@@ -10,7 +10,7 @@ For example, whenever a person asks for a number, often they just want an estima
 
 Given a (possibly very large) number, print its numerically closest representation that has only one digit other than trailing zeroes.
 
-The closeness of the representation $r$ of a number $n$ is defined by abs$(r − n)$.
+The closeness of the representation $r$ of a number $n$ is defined by abs($r − n$).
 
 ### Input
 
