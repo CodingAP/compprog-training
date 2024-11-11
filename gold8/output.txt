@@ -1,0 +1,4 @@
+Enter number of rows then columns:
+Enter starting room (row then column):
+Enter instructions:
+visited same room more than once

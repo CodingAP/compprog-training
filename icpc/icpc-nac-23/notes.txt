@@ -1,0 +1,38 @@
+a
+    find formula for math ???
+
+b
+    all possible paths between two nodes
+
+c
+    fix mst with minimum swaps
+
+d
+    order test in best way to minimize cost
+
+e
+    find best way to play word game
+
+f
+    find optimal way to pack rectangles, check if square
+
+g
+    find minimum number of flights
+
+h
+    compute expected rank of players given skill level
+
+i
+    math problem reversal
+
+j
+    find amount of substrings that can make repetitive strings
+
+k
+    find minimum number of tabs to replace with spaces to make indenting clean
+
+l
+    simulate modfied game of nim
+
+m
+    minimize sentry movements to make sure all of being watched

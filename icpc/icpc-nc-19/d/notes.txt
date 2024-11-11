@@ -1,0 +1,43 @@
+e + e = e
+o + o = e
+e + o = o
+
+1e: e = e
+1o: o = o
+either
+
+2e: e + o = o
+2o: o + e = o
+odd
+
+3e: e + o + e = o
+3o: o + e + o = e
+either
+
+4e: e + o + e + o = e
+4o: o + e + o + e = e
+even
+
+5e: e + o + e + o + e = e
+5o: o + e + o + e + o = o
+either
+
+6e: e + o + e + o + e + o = o
+6o: o + e + o + e + o + e = o
+odd
+
+7e: e + o + e + o + e + o + e = o
+7o: o + e + o + e + o + e + o = e
+either
+
+8e: e + o + e + o + e + o + e + o = e
+8o: o + e + o + e + o + e + o + e = e
+even
+
+9e:
+9o:
+either
+
+10e:
+10o:
+odd
